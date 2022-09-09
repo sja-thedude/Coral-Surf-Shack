@@ -4,7 +4,7 @@ This website Coral Surf Shacks is a simple responsive website which have a basic
 
 # Live
 
-[Link]()
+[Live Link](https://sja-thedude.github.io/Coral-Surf-Shack/)
 
 ## Built With
 
