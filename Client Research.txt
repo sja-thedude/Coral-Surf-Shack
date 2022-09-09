@@ -1,0 +1,79 @@
+Coral's Surf Shack
+
+Coral's Surf Shack is a surfing centre on the west coast of Ireland.
+
+The services they offer are:
+
+	Equipment Rental
+		Surfboards
+		Wetsuits
+
+	Surfing Lessons
+		Group & Private
+		Adult & Child
+		School Tours
+		Gift Vouchers
+		
+	Surfing Camps
+		5 Day courses (1 week)
+		Runs for June and July
+		
+They also have a shop attached to their Surf Centre and they offer the following products:
+	
+	Equipment
+		Surfboards
+		Surfing Accessories
+			Straps
+			Wax
+			Grips
+			Cases & Bags
+		Wetgear
+			Wetsuits
+			Head things
+			gloves
+			booties
+			
+	Clothing
+		Hoodies
+		Swimming apperal
+		Footware
+		
+Purpose
+	To promote the surfing school and shop
+	To allow prospective clients to book a place and get in contact
+	To provide location and directions to customers
+	
+Goals
+	To reach a larger audience
+	To take in more bookings
+	To be found on Google
+	
+Target Audience
+	Anyone with an interest in surfing over the age of 16
+	Schools and local clubs in the surrounding area
+	Parents in the local area or holidaying with children in the local area
+
+Content
+	About the courses
+		Details
+		Photos
+		Price
+	About the equipment
+		Details
+		Photos
+		Price
+	Store Product
+		Details
+		Photos
+		Price
+
+Special Features
+	Contact Form
+	Get Directions
+	Social Media Links
+
+SEO
+	Social Media Integration
+	Google Business
+	Google Analytics
+	Missing SM Accounts
